@@ -2,7 +2,7 @@
 
 Public algorithms applied to LCFD analysis pipeline
 
-
+#
 ### Broad Institute repository
 https://github.com/broadinstitute
 
@@ -24,6 +24,10 @@ https://github.com/cole-trapnell-lab
 ### annotation
 https://github.com/IanevskiAleksandr/sc-type
 
+### Alternative
+https://github.com/bowang-lab/scGPT
+
+
 
 ## Genomics
 
@@ -32,6 +36,7 @@ https://github.com/YuLab-SMU/ChIPseeker
 
 ### Greenleaf : chromVAR, motifmatchr, ArchR, ChrAccR
 https://github.com/GreenleafLab
+
 
 
 
