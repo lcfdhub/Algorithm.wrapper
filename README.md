@@ -12,7 +12,8 @@ http://deepcrispr.info/DeepPrime/
 
 ## Single cell
 ### Seurat
-https://github.com/satijalab/seurat-wrappers
+https://satijalab.org/seurat/
+https://github.com/satijalab
 
 ### CellChat
 https://github.com/sqjin/CellChat
