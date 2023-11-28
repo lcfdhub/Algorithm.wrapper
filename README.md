@@ -12,7 +12,8 @@ http://deepcrispr.info/DeepPrime/
 
 ## Single cell
 ### Seurat
-https://satijalab.org/seurat
+https://satijalab.org/seurat/
+
 https://github.com/satijalab
 
 ### CellChat
@@ -20,6 +21,7 @@ https://github.com/sqjin/CellChat
 
 ### monocle
 https://cole-trapnell-lab.github.io/monocle3
+
 https://github.com/cole-trapnell-lab
 
 ### annotation
