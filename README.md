@@ -11,6 +11,9 @@ Deep learning-based model that can predict the prime editing efficiency for all 
 http://deepcrispr.info/DeepPrime/
 
 ## Single cell
+
+https://broadinstitute.github.io/2020_scWorkshop/
+
 ### Seurat
 https://satijalab.org/seurat/
 
