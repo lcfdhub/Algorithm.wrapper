@@ -14,6 +14,9 @@ http://deepcrispr.info/DeepPrime/
 
 https://broadinstitute.github.io/2020_scWorkshop/
 
+https://bioconductor.org/books/3.14/OSCA.advanced/
+
+
 ### Seurat
 https://satijalab.org/seurat/
 
