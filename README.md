@@ -24,6 +24,7 @@ https://github.com/satijalab
 
 ### CellChat
 https://github.com/sqjin/CellChat
+https://github.com/jinworks/CellChat?tab=readme-ov-file
 
 ### annotation
 https://github.com/IanevskiAleksandr/sc-type
