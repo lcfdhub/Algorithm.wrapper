@@ -34,11 +34,17 @@ https://github.com/bowang-lab/scGPT
 
 # sc Trajectory analysis
 
+### Overview
 https://broadinstitute.github.io/2020_scWorkshop/trajectory-analysis.html
 
-https://cole-trapnell-lab.github.io/monocle3
+### monocle
+monocle3: https://cole-trapnell-lab.github.io/monocle3
 
-https://github.com/cole-trapnell-lab
+monocle2: https://github.com/cole-trapnell-lab
+
+### velocity
+
+### Waddington-OT
 
 
 # Cell-to-cell interaction
