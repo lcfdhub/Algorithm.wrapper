@@ -10,36 +10,46 @@ https://github.com/broadinstitute
 Deep learning-based model that can predict the prime editing efficiency for all possible pegRNAs for a given target sequence
 http://deepcrispr.info/DeepPrime/
 
-## Single cell
 
+# Single-cell platform
+
+### 0. review
 https://broadinstitute.github.io/2020_scWorkshop/
 
 https://bioconductor.org/books/3.14/OSCA.advanced/
 
-
-### Seurat
+### 1. Seurat
 https://satijalab.org/seurat/
 
 https://github.com/satijalab
 
-### CellChat
-https://github.com/sqjin/CellChat
-https://github.com/jinworks/CellChat?tab=readme-ov-file
+### 2. annotation
+SingleR
 
-### annotation
 https://github.com/IanevskiAleksandr/sc-type
 
-### Alternative
+### 3. Alternative
 https://github.com/bowang-lab/scGPT
 
-### sc Trajectory analysis
+
+# sc Trajectory analysis
 
 https://broadinstitute.github.io/2020_scWorkshop/trajectory-analysis.html
 
 https://cole-trapnell-lab.github.io/monocle3
+
 https://github.com/cole-trapnell-lab
 
-## Genomics
+
+# Cell-to-cell interaction
+
+### CellChat
+https://github.com/sqjin/CellChat
+
+https://github.com/jinworks/CellChat?tab=readme-ov-file
+
+
+# Genomics
 
 ### ChIPseeker
 https://github.com/YuLab-SMU/ChIPseeker
