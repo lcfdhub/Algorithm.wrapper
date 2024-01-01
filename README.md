@@ -23,13 +23,20 @@ https://satijalab.org/seurat/
 
 https://github.com/satijalab
 
-### 2. annotation
+### 2. Annotation
 SingleR:   
 
 sc-type:   https://github.com/IanevskiAleksandr/sc-type
 
+Garnett:  https://cole-trapnell-lab.github.io/garnett/docs/
+
+
 ### 3. Alternative
-https://github.com/bowang-lab/scGPT
+scGPT:  https://github.com/bowang-lab/scGPT
+
+Waddington-OT: 
+
+
 
 #
 # sc Trajectory analysis
