@@ -24,9 +24,9 @@ https://satijalab.org/seurat/
 https://github.com/satijalab
 
 ### 2. annotation
-SingleR
+SingleR:   
 
-https://github.com/IanevskiAleksandr/sc-type
+sc-type:   https://github.com/IanevskiAleksandr/sc-type
 
 ### 3. Alternative
 https://github.com/bowang-lab/scGPT
@@ -56,6 +56,16 @@ https://broadinstitute.github.io/wot/
 https://github.com/sqjin/CellChat
 
 https://github.com/jinworks/CellChat?tab=readme-ov-file
+
+Website: http://www.cellchat.org/
+
+#
+# ATAC analysis
+Signac: https://stuartlab.org/signac/
+
+Cicero: https://cole-trapnell-lab.github.io/cicero-release/docs_m3/
+
+ChromVar: https://greenleaflab.github.io/chromVAR/articles/Introduction.html
 
 #
 # Genomics
