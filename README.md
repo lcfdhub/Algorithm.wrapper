@@ -10,6 +10,9 @@ https://github.com/broadinstitute
 Deep learning-based model that can predict the prime editing efficiency for all possible pegRNAs for a given target sequence
 http://deepcrispr.info/DeepPrime/
 
+### Dana Pe'er
+https://github.com/dpeerlab
+
 #
 # Single-cell platform
 
