@@ -53,6 +53,7 @@ monocle3: https://cole-trapnell-lab.github.io/monocle3
 monocle2: https://github.com/cole-trapnell-lab
 
 ### velocity
+Vignette1: https://htmlpreview.github.io/?https://github.com/satijalab/seurat-wrappers/blob/master/docs/scvelo.html
 
 
 ### Waddington-OT
@@ -69,11 +70,20 @@ https://github.com/jinworks/CellChat?tab=readme-ov-file
 
 Website: http://www.cellchat.org/
 
+Vignette1: https://rdrr.io/github/sqjin/CellChat/f/tutorial/CellChat-vignette.Rmd
+
+Vignette2: https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/tutorial/Comparison_analysis_of_multiple_datasets.html
+
+
 #
 # ATAC analysis
 Signac: https://stuartlab.org/signac/
 
 Cicero: https://cole-trapnell-lab.github.io/cicero-release/docs_m3/
+
+Cicero.Vignette1: https://stuartlab.org/signac/articles/cicero
+
+Cicero.Vignette2: https://www.bioconductor.org/packages/devel/bioc/vignettes/cicero/inst/doc/website.html
 
 ChromVar: https://greenleaflab.github.io/chromVAR/articles/Introduction.html
 
@@ -82,6 +92,12 @@ ChromVar: https://greenleaflab.github.io/chromVAR/articles/Introduction.html
 
 ### ChIPseeker
 https://github.com/YuLab-SMU/ChIPseeker
+
+### ClusterProfiler / Enrichment
+https://yulab-smu.top/biomedical-knowledge-mining-book/index.html
+
+https://ycl6.github.io/GO-Enrichment-Analysis-Demo/3_clusterProfiler.html#Load_data
+
 
 ### Greenleaf : chromVAR, motifmatchr, ArchR, ChrAccR
 https://github.com/GreenleafLab
